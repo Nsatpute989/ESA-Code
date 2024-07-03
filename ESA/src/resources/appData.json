@@ -1,0 +1,234 @@
+[
+  {
+    "name": "APFC Panel",
+    "thumbnailImage": "apfc-thumbnail",
+    "image": "apfc",
+    "id": 1,
+    "description": "Automatic Power Factor Control or APFC Panels are mainly used for the improvement of Power Factor. Power Factor is the ratio of active power to apparent power and it is a major component in measuring electrical consumption. APFC is an automatic power factor control panel which is used to improve the power factor, whenever required, by switching ON and OFF the required capacitor bank units automatically.",
+    "features": ["Fast Real Time Transient-Free switching of Capacitor Banks",
+      "Prevents damage to sensitive electronic equipment in notwork",
+      "Highly intelligent micro processor based 3 phase P.F. Controller with Dual P.F. Setting and Master Slave modes",
+      "LCD Controller has inbuilt with Load Manager with front optical port",
+      "Optional plugable Data Logger, Ethernet, USB, Rs485, GSM modern and capacitor protection modules",
+      "Saves Energy with P.F Control and Harmonic Filtration",
+      "Extremely long life expectancy",
+      "Available with Tuned, 7%, 5.6%, 4% or any other Tuning frequency as per customer request",
+      "System is available with Contactor switching for non-dynamic and normal loads – Ratings and Dimensions are same as Active Comp System"
+    ],
+    "specification": [
+      {
+        "key": "Design",
+        "value": "Standardized Modular Sheet Steel Enclosures"
+      },
+      {
+        "key": "Rated Volatge",
+        "value": "415V-440V/50Hz"
+      },
+      {
+        "key": "Incoming / Outgoing",
+        "value": "MCCB / ACB as Incomer and HRC Fuses for backup protection"
+      },
+      {
+        "key": "Protection class",
+        "value": "IP 40"
+      }
+
+    ]
+  },
+  {
+    "name": "MCC Panel",
+    "thumbnailImage": "mcc-thumbnail",
+    "image": "mcc",
+    "id": 2,
+    "description": "The Motor Control Centre Panels, also called MCC Panels are used to control motors from a central point in big industrial and commercial applications. In many industrial and commercial applications, many electric motors are required, it is frequently advantageous to control part or all of them from a central place",
+    "features": ["Remote control operation facility",
+      "MCCB for protection",
+      "Change over switch for circuit change from mains to DG and vice-versa",
+      "Direct on line starters that includes MCB, contactor, thermal overload relay and connectors.",
+      "Bus Bars of proper rating duly covered with acrylic sheet for safety.",
+      "Aluminium strip for earthing",
+      "Panel light and fan for ventilation.",
+      "Many more features that solves many practical problems." ],
+    "specification": [
+      {
+        "key": "Operating Voltage",
+        "value": "240/415 Volt"
+      },
+      {
+        "key": "Thickness",
+        "value": "1.6mm- 3mm Meter"
+      },
+      {
+        "key": "Material",
+        "value": "Aluminum,MS, Etc"
+      },
+      {
+        "key": "Protection level",
+        "value": "IP42,IP54,etc"
+      }
+
+    ]
+  },
+  {
+    "name": "PCC Panel",
+    "thumbnailImage": "pcc-thumbnail",
+    "image": "pcc",
+    "id": 3,
+    "description": "PCC (Power Control Centre) Panels are used to supervise and control the voltage and power of the power system. These panels are made of high-quality raw material and are extremely sturdy in fabrication.",
+    "features": ["Robust and compact construction",
+    "Ensured safety",
+      "Reliable and hassle free performance.",
+      "For cables and bus bars high quality connections provided.",
+      "For safety separate compartments are design which consists of switching device, auxiliary equipment and a cable."
+    ],
+    "specification": [
+      {
+        "key": "Operating Current",
+        "value": "Upto 6300A"
+      },
+      {
+        "key": "Ambient Temperature",
+        "value": "Max 50-60 °C"
+      },
+      {
+        "key": "Protection class",
+        "value": "IP 20/IP 44/IP 65"
+      }
+
+    ]
+  },
+  {
+    "name": "Starter Panel",
+    "thumbnailImage": "starter-thumbnail",
+    "image": "starter",
+    "id": 4,
+    "description": "A starter panel is the most basic type of motor control panel. It houses the starter and associated controls for an electric motor. The starter panel may also include a circuit breaker to protect the motor from overload.",
+    "features": ["Degree of Protection. IP65.",
+      "Operating Voltage. 440 V.",
+      "Usage/Application. Industrial.",
+      "Body Material. Stainless Steel.",
+      "Brand. ASI Technology.",
+      "Frequency Range. 50/60 Hz.",
+      "Power Source. Electric." ],
+    "specification": [
+      {
+        "key": "Frequency",
+        "value": "50 Hz AC Supply"
+      },
+      {
+        "key": "Rated Volatge",
+        "value": "690V"
+      },
+      {
+        "key": "Protection grade of the enclosure",
+        "value": "IP54 standard and optional upto IP66"
+      },
+      {
+        "key": "Protection class",
+        "value": "IP54 standard and optional upto IP66"
+      }
+
+    ]
+  },
+  {
+    "name": "Lighting Panel",
+    "thumbnailImage": "lighting-thumbnail",
+    "image": "lighting",
+    "id": 5,
+    "description": "Lighting control panel is a small electrical cabinet comprising controller that aid in intelligent lighting controls features. These are very commonly used to control public area lighting, street lighting, supermarket lights, and even lighting equipment in residential buildings.",
+    "features": ["Remote control operation facility",
+      "MCCB for protection",
+      "Change over switch for circuit change from mains to DG and vice-versa",
+      "Direct on line starters that includes MCB, contactor, thermal overload relay and connectors.",
+      "Bus Bars of proper rating duly covered with acrylic sheet for safety.",
+      "Aluminium strip for earthing",
+      "Panel light and fan for ventilation.",
+      "Many more features that solves many practical problems." ],
+    "specification": [
+      {
+        "key": "Operating Voltage",
+        "value": "240/415 Volt"
+      },
+      {
+        "key": "Thickness",
+        "value": "1.6mm- 3mm Meter"
+      },
+      {
+        "key": "Material",
+        "value": "Aluminum,MS, Etc"
+      },
+      {
+        "key": "Protection level",
+        "value": "IP42,IP54,etc"
+      }
+
+    ]
+  },
+  {
+    "name": "Fire Extinguishing Panel",
+    "thumbnailImage": "fire-thumbnail",
+    "image": "fire",
+    "id": 6,
+    "description": "The Fire Extinguishing Control Panel is designated for fire protection, monitoring and control of systems for active extinguishing – gas, powder, aerosol, water, etc. Conventional panels.",
+    "features": ["Remote control operation facility",
+      "MCCB for protection",
+      "Change over switch for circuit change from mains to DG and vice-versa",
+      "Direct on line starters that includes MCB, contactor, thermal overload relay and connectors.",
+      "Bus Bars of proper rating duly covered with acrylic sheet for safety.",
+      "Aluminium strip for earthing",
+      "Panel light and fan for ventilation.",
+      "Many more features that solves many practical problems." ],
+    "specification": [
+      {
+        "key": "Operating Voltage",
+        "value": "240/415 Volt"
+      },
+      {
+        "key": "Thickness",
+        "value": "1.6mm- 3mm Meter"
+      },
+      {
+        "key": "Material",
+        "value": "Aluminum,MS, Etc"
+      },
+      {
+        "key": "Protection level",
+        "value": "IP42,IP54,etc"
+      }
+
+    ]
+  },
+  {
+    "name": "Capacitor Panel",
+    "thumbnailImage": "capacitor-thumbnail",
+    "image": "capacitor",
+    "id": 7,
+    "description": "Capacitor Panels are special devices made to this end itself, as it verily increases the power factor correction by a large magnitude. Normally the electric load running all around a facility or residence is reactive in nature and can prevent in great losses as pointed to before.",
+    "features": ["Common Capacitor Panel Restrictions.",
+      "Steps Capacitor Switching.",
+      "Ineffective with varying loads.",
+      "High upkeep and capacitor replacement.",
+      "There is no harmonic compensation and no load balancing.",
+      "Substitute Technology is cost-efficient when merely displacement (Laggings) PF improvement is needed."
+    ],
+    "specification": [
+      {
+        "key": "Operating Voltage",
+        "value": "240/415 Volt"
+      },
+      {
+        "key": "Thickness",
+        "value": "1.6mm- 3mm Meter"
+      },
+      {
+        "key": "Material",
+        "value": "Aluminum,MS, Etc"
+      },
+      {
+        "key": "Protection level",
+        "value": "IP42,IP54,etc"
+      }
+
+    ]
+  }
+]
